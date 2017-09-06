@@ -11,7 +11,7 @@ My personal page
       <h2>Contacts:</h2>
       Page vkontakte <a href=https://vk.com/as.nightwing></a> 
       <br/>
-      Page GetHub <a href=https:https://github.com/ashseyfullina></a>
+      Page GetHub <a href=https://github.com/ashseyfullina></a>
       <br/>
       Phone: <b>+79228337727</b>
       <br/>

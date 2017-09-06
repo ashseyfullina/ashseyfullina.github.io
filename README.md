@@ -9,9 +9,9 @@ My personal page
       <left><img alt="It's me" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Contacts:</h2>
-      Page vkontakte https://vk.com/as.nightwing 
+      Page vkontakte: https://vk.com/as.nightwing 
       <br/>
-      Page GetHub https://github.com/ashseyfullina
+      Page GetHub: https://github.com/ashseyfullina
       <br/>
       Phone: <b>+79228337727</b>
       <br/>

@@ -1,6 +1,5 @@
 # ashseyfullina.github.io
 My personal page
-<!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
@@ -11,12 +10,12 @@ My personal page
       <left><img alt="It's me" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Contacts:</h2>
-      Page <a href=https://vk.com/as.nightwing>vkontakte</a>
+      Page vkontakte https://vk.com/as.nightwing 
       <br/>
-      <a href=https://github.com/ashseyfullina>GitHub</a>
+      https://github.com/ashseyfullina
       <br/>
       Phone: <b>+79228337727</b>
       <br/>
-      E-mail: <i>ashseyfullina@edu.hse.ru</i>
+      E-mail: ashseyfullina@edu.hse.ru
     </body>
   </html>
